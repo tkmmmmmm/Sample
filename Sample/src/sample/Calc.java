@@ -25,7 +25,7 @@ public class Calc {
         //余剰
         var result5 = num1 % num2;
         System.out.println("num1 % num2 = " + result5);
-        
+       
         
 
     }
